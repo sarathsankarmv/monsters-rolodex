@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.362f17a7.chunk.js",
-    "main.js.map": "/static/js/main.362f17a7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.162c5d02.js",
-    "runtime-main.js.map": "/static/js/runtime-main.162c5d02.js.map",
-    "static/js/2.9c8e02e0.chunk.js": "/static/js/2.9c8e02e0.chunk.js",
-    "static/js/2.9c8e02e0.chunk.js.map": "/static/js/2.9c8e02e0.chunk.js.map",
-    "static/js/3.d34e5cc2.chunk.js": "/static/js/3.d34e5cc2.chunk.js",
-    "static/js/3.d34e5cc2.chunk.js.map": "/static/js/3.d34e5cc2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.9c8e02e0.chunk.js.LICENSE.txt": "/static/js/2.9c8e02e0.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/monsters-rolodex.git/static/css/main.ea9fa414.chunk.css",
+    "main.js": "/monsters-rolodex.git/static/js/main.92c16a01.chunk.js",
+    "main.js.map": "/monsters-rolodex.git/static/js/main.92c16a01.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex.git/static/js/runtime-main.c1ddd6da.js",
+    "runtime-main.js.map": "/monsters-rolodex.git/static/js/runtime-main.c1ddd6da.js.map",
+    "static/js/2.ae08c20f.chunk.js": "/monsters-rolodex.git/static/js/2.ae08c20f.chunk.js",
+    "static/js/2.ae08c20f.chunk.js.map": "/monsters-rolodex.git/static/js/2.ae08c20f.chunk.js.map",
+    "static/js/3.6192c455.chunk.js": "/monsters-rolodex.git/static/js/3.6192c455.chunk.js",
+    "static/js/3.6192c455.chunk.js.map": "/monsters-rolodex.git/static/js/3.6192c455.chunk.js.map",
+    "index.html": "/monsters-rolodex.git/index.html",
+    "static/css/main.ea9fa414.chunk.css.map": "/monsters-rolodex.git/static/css/main.ea9fa414.chunk.css.map",
+    "static/js/2.ae08c20f.chunk.js.LICENSE.txt": "/monsters-rolodex.git/static/js/2.ae08c20f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.162c5d02.js",
-    "static/js/2.9c8e02e0.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.362f17a7.chunk.js"
+    "static/js/runtime-main.c1ddd6da.js",
+    "static/js/2.ae08c20f.chunk.js",
+    "static/css/main.ea9fa414.chunk.css",
+    "static/js/main.92c16a01.chunk.js"
   ]
 }
